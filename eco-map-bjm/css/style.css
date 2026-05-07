@@ -1,0 +1,113 @@
+nav { 
+    background: #1a4d2e; /* Hijau gelap sesuai gambar */
+    padding: 12px 60px; 
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.nav-container { 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    max-width: 1400px; 
+    margin: 0 auto; 
+}
+
+.nav-logo { 
+    color: white; 
+    font-weight: 800; 
+    font-size: 22px; 
+    display: flex;
+    align-items: center;
+    letter-spacing: 1px;
+}
+
+.leaf-icon {
+    margin-right: 10px;
+    font-size: 20px;
+    /* Memberikan efek warna kuning/hijau terang pada ikon */
+    filter: sepia(100%) saturate(300%) brightness(100%) hue-rotate(45deg);
+}
+
+.nav-menu { 
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+    display: flex; 
+    gap: 30px; 
+}
+
+.nav-menu li a { 
+    color: rgba(255,255,255,0.7); 
+    text-decoration: none; 
+    font-weight: 500; 
+    font-size: 15px; 
+    transition: 0.3s;
+}
+
+/* Efek saat menu aktif atau di-hover */
+.nav-menu li a:hover, .nav-menu li a.active { 
+    color: white; 
+    font-weight: 600;
+}
+
+/* Pastikan main wrapper menyesuaikan tinggi navbar baru */
+.main-container { 
+    height: calc(100vh - 65px); 
+}
+
+nav { 
+    background: #1a4d2e; /* Hijau gelap sesuai gambar */
+    padding: 12px 60px; 
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.nav-container { 
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    max-width: 1400px; 
+    margin: 0 auto; 
+}
+
+.nav-logo { 
+    color: white; 
+    font-weight: 800; 
+    font-size: 22px; 
+    display: flex;
+    align-items: center;
+    letter-spacing: 1px;
+}
+
+.leaf-icon {
+    margin-right: 10px;
+    font-size: 20px;
+    /* Memberikan efek warna kuning/hijau terang pada ikon */
+    filter: sepia(100%) saturate(300%) brightness(100%) hue-rotate(45deg);
+}
+
+.nav-menu { 
+    list-style: none; 
+    padding: 0; 
+    margin: 0; 
+    display: flex; 
+    gap: 30px; 
+}
+
+.nav-menu li a { 
+    color: rgba(255,255,255,0.7); 
+    text-decoration: none; 
+    font-weight: 500; 
+    font-size: 15px; 
+    transition: 0.3s;
+}
+
+/* Efek saat menu aktif atau di-hover */
+.nav-menu li a:hover, .nav-menu li a.active { 
+    color: white; 
+    font-weight: 600;
+}
+
+/* Pastikan main wrapper menyesuaikan tinggi navbar baru */
+.main-container { 
+    height: calc(100vh - 65px); 
+}

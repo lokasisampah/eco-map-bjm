@@ -1,0 +1,23 @@
+[ { "nama": "Kantor Pemerintah Kota Banjarmasin", "kategori": "TPS", "kecamatan":
+"Banjarmasin Tengah", "alamat": "Jl. RE Martadinata No.1", "d.lt": -3.32799, "d.lg": 114.58867 },
+{ "nama": "Pasar Rambai", "kategori": "TPS", "kecamatan": "Banjarmasin Tengah", "alamat": "Jl.
+Simpang Telawang", "d.lt": -3.326217, "d.lg": 114.586708 }, { "nama": "Pasar Sepeda",
+"kategori": "TPS", "kecamatan": "Banjarmasin Tengah", "alamat": "Jl. Niaga Utara", "d.lt":
+-3.327129, "d.lg": 114.591307 }, { "nama": "TPS Mulawarman", "kategori": "TPS", "kecamatan":
+"Banjarmasin Tengah", "alamat": "Jl. Batu Tiban (Samping SMPN 1)", "d.lt": -3.317772, "d.lg":
+114.581884 }, { "nama": "Antasan Kecil Timur", "kategori": "Surung Sintak", "kecamatan":
+"Banjarmasin Utara", "alamat": "Jl. Sulawesi (Bawah Jembatan Kembar)", "jadwal":
+"20.00-22.00", "d.lt": -3.307648, "d.lg": 114.593892 }, { "nama": "Sungai Andai Ujung", "kategori":
+"Surung Sintak", "kecamatan": "Banjarmasin Utara", "alamat": "Sungai Andai Ujung", "jadwal":
+"17.00-19.00", "d.lt": -3.299092, "d.lg": 114.615197 }, { "nama": "Kuin Selatan", "kategori":
+"Surung Sintak", "kecamatan": "Banjarmasin Barat", "alamat": "Jl. Kuin Selatan (Depan gudang
+suun)", "jadwal": "17.00-19.00", "d.lt": -3.299258, "d.lg": 114.580345 }, { "nama": "TPS 3R Aldi
+Lestradi", "kategori": "TPS 3R", "kecamatan": "Banjarmasin Selatan", "alamat": "Basirih
+Selatan", "pengelola": "KSM Aldi Lestari", "d.lt": -3.3547635, "d.lg": 114.5562609 }, { "nama":
+"TPS 3R Permata Regency", "kategori": "TPS 3R", "kecamatan": "Banjarmasin Selatan",
+"alamat": "Pemurus Dalam", "pengelola": "KSM Permata Regency", "d.lt": -3.35778, "d.lg":
+114.618351 }, { "nama": "Banjarmasin Recycle Center (BRC)", "kategori": "Fasilitas Khusus",
+"kecamatan": "Banjarmasin Selatan", "alamat": "Basirih Selatan", "pengelola": "KSM Bamara",
+"d.lt": -3.362781, "d.lg": 114.578719 }, { "nama": "Rumah Kompos Basirih", "kategori": "Fasilitas
+Khusus", "kecamatan": "Banjarmasin Selatan", "alamat": "Basirih Selatan", "pengelola": "DLH",
+"d.lt": -3.3673629, "d.lg": 114.5827501 } ]
